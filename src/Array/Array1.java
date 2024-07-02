@@ -21,7 +21,7 @@ public static void main(String[] args) {
 
 //    if we already know the value we can declare the Array like
     int marks[] = {100 , 200 , 300 , 400};
-    System.out.println(marks[0]);
+    System.out.println(marks[4]);
 
     //find the sum of an array
     int employees[] = {23,2,34,12,10,33,89};
